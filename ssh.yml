@@ -4,5 +4,5 @@
     authorized_key:
       user: ec2-user
       state: present
-      key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCoOBnJjZfO7K9Yfax6RYMce59UGexUFFQzqfKJVU8JxwBQHYpbxy6v4bL3zaOMynkSU6gh+yOXqEvgNPg/kT2TAZYIWULDmNL/tanhkS5hGyEP3IMOtpX0DCmn3DQAEiAtLQ/wwom8FZXdKlm3A/LX0KNxOdfKwLIDtNxQaU3KCLVEHEExbPVIXLfIITSk1ci5IslcmyPf3xBqBfe/f4b3IAZzJRSTx6hxUbc74sADTqynkKkPnxwnXdk/+vhuStwzkPm2epuIfUfCKQTaN9070goQlJjYPH7MrLMjL8+lnpj79/T501V6Nt3z75u9sptVghEv9l4KmZ3g4JgTICER nuraa@NurB-WorkStation
+      key: ""
 "
